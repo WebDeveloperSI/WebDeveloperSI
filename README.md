@@ -1,5 +1,4 @@
-
-<img src="[[https://media.licdn.com/dms/image/v2/D5616AQHlKd9-wT8aSw/profile-displaybackgroundimage-shrink_350_1400/B56ZUy.HAOGsAY-/0/1740316898238?e=1756944000&v=beta&t=JjehSHtxFrLRchubUl_FpJMQqpInQ8HUVHcruot4xjs](https://media.licdn.com/dms/image/v2/D5616AQEKGBenCQY9Aw/profile-displaybackgroundimage-shrink_350_1400/B56Zl_3rr4HMAY-/0/1758786937746?e=1761782400&v=beta&t=yxCsQibmZClam43Pb0vHd3mhBPKGUvYsZF4Vq_3_LP8)](https://media.licdn.com/dms/image/v2/D5616AQEKGBenCQY9Aw/profile-displaybackgroundimage-shrink_350_1400/B56Zl_3rr4HMAY-/0/1758786937746?e=1761782400&v=beta&t=yxCsQibmZClam43Pb0vHd3mhBPKGUvYsZF4Vq_3_LP8)">
+src="https://media.licdn.com/dms/image/v2/D5616AQG8OQehDSgQng/profile-displaybackgroundimage-shrink_350_1400/B56ZU2YJBMHsAY-/0/1740374055123?e=1762992000&v=beta&t=iuxaXN4CZHzSw6xBPhwlqkGJ_VbELXsIFq8MBA7u0aY">
 <h1 align="center">Hi 👋, I'm Khan Saiful Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
